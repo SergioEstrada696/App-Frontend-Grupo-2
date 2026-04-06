@@ -1,0 +1,749 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\views\\inicio\\contactos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\views\\inicio\\contactos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\views\\inicio\\empresa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\views\\inicio\\empresa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\views\\inicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\views\\inicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\views\\inicio\\servicios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\views\\inicio\\servicios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\services\\trabajadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\services\\trabajadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\services\\peticionpendienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\services\\peticionpendienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\services\\peticionclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\services\\peticionclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\services\\notificacionpendienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\services\\notificacionpendienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\services\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\services\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\services\\areaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\services\\areaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\services\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\services\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\services\\interfaces\\itrabajadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\services\\interfaces\\itrabajadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\services\\interfaces\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\services\\interfaces\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\services\\interfaces\\ipeticionpedienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\services\\interfaces\\ipeticionpedienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\services\\interfaces\\ipeticionclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\services\\interfaces\\ipeticionclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\services\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\services\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\services\\interfaces\\inotificacionpeticionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\services\\interfaces\\inotificacionpeticionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\models\\peticioncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\models\\peticioncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\models\\peticionpendiente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\models\\peticionpendiente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\services\\interfaces\\icategoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\services\\interfaces\\icategoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\services\\interfaces\\iareaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\services\\interfaces\\iareaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\models\\interfaces\\itrabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\models\\interfaces\\itrabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\models\\interfaces\\iproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\models\\interfaces\\iproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\models\\trabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\models\\trabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\models\\interfaces\\icliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\models\\interfaces\\icliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\models\\interfaces\\ipeticioncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\models\\interfaces\\ipeticioncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\models\\interfaces\\icategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\models\\interfaces\\icategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\models\\interfaces\\inotificacionpeticion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\models\\interfaces\\inotificacionpeticion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\models\\notificacionpeticion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\models\\notificacionpeticion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\models\\interfaces\\iusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\models\\interfaces\\iusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\models\\interfaces\\iarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\models\\interfaces\\iarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\models\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\models\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto\\empresametalurgicayvidrios\\empresametalurgicayvidrios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D260C83-1351-7956-259A-0BA1FB22E8FD}|EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios.csproj|solutionrelative:empresametalurgicayvidrios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:39:36.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrabajadorService.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\TrabajadorService.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Services\\TrabajadorService.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\TrabajadorService.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Services\\TrabajadorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:39:14.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\ProductoService.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Services\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\ProductoService.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Services\\ProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:38:50.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PeticionPendienteService.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\PeticionPendienteService.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Services\\PeticionPendienteService.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\PeticionPendienteService.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Services\\PeticionPendienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:38:26.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PeticionClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\PeticionClienteService.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Services\\PeticionClienteService.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\PeticionClienteService.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Services\\PeticionClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:37:43.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Servicios.cshtml",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Views\\Inicio\\Servicios.cshtml",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Views\\Inicio\\Servicios.cshtml",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Views\\Inicio\\Servicios.cshtml",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Views\\Inicio\\Servicios.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T20:01:57.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Views\\Inicio\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Views\\Inicio\\Index.cshtml",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Views\\Inicio\\Index.cshtml",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Views\\Inicio\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T19:54:22.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empresa.cshtml",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Views\\Inicio\\Empresa.cshtml",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Views\\Inicio\\Empresa.cshtml",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Views\\Inicio\\Empresa.cshtml",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Views\\Inicio\\Empresa.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T20:08:03.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contactos.cshtml",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Views\\Inicio\\Contactos.cshtml",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Views\\Inicio\\Contactos.cshtml",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Views\\Inicio\\Contactos.cshtml",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Views\\Inicio\\Contactos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T20:02:18.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NotificacionPendienteService.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\NotificacionPendienteService.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Services\\NotificacionPendienteService.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\NotificacionPendienteService.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Services\\NotificacionPendienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:37:01.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\ClienteService.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Services\\ClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:36:25.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoriaService.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\CategoriaService.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Services\\CategoriaService.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\CategoriaService.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Services\\CategoriaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:36:12.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AreaService.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\AreaService.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Services\\AreaService.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\AreaService.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Services\\AreaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:35:55.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\Interfaces\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Services\\Interfaces\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\Interfaces\\IUsuarioService.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Services\\Interfaces\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:34:00.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ITrabajadorService.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\Interfaces\\ITrabajadorService.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Services\\Interfaces\\ITrabajadorService.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\Interfaces\\ITrabajadorService.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Services\\Interfaces\\ITrabajadorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:33:30.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\Interfaces\\IProductoService.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Services\\Interfaces\\IProductoService.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\Interfaces\\IProductoService.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Services\\Interfaces\\IProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:33:07.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IPeticionPedienteService.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\Interfaces\\IPeticionPedienteService.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Services\\Interfaces\\IPeticionPedienteService.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\Interfaces\\IPeticionPedienteService.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Services\\Interfaces\\IPeticionPedienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:32:32.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IPeticionClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\Interfaces\\IPeticionClienteService.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Services\\Interfaces\\IPeticionClienteService.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\Interfaces\\IPeticionClienteService.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Services\\Interfaces\\IPeticionClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:31:53.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "INotificacionPeticionService.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\Interfaces\\INotificacionPeticionService.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Services\\Interfaces\\INotificacionPeticionService.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\Interfaces\\INotificacionPeticionService.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Services\\Interfaces\\INotificacionPeticionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:31:24.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\Interfaces\\IClienteService.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Services\\Interfaces\\IClienteService.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\Interfaces\\IClienteService.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Services\\Interfaces\\IClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:30:46.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICategoriaService.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\Interfaces\\ICategoriaService.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Services\\Interfaces\\ICategoriaService.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\Interfaces\\ICategoriaService.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Services\\Interfaces\\ICategoriaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:30:19.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IAreaService.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\Interfaces\\IAreaService.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Services\\Interfaces\\IAreaService.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Services\\Interfaces\\IAreaService.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Services\\Interfaces\\IAreaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:29:57.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ITrabajador.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Models\\Interfaces\\ITrabajador.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Models\\Interfaces\\ITrabajador.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Models\\Interfaces\\ITrabajador.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Models\\Interfaces\\ITrabajador.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T21:42:02.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PeticionPendiente.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Models\\PeticionPendiente.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Models\\PeticionPendiente.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Models\\PeticionPendiente.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Models\\PeticionPendiente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T20:17:29.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PeticionCliente.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Models\\PeticionCliente.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Models\\PeticionCliente.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Models\\PeticionCliente.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Models\\PeticionCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T20:17:01.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IPeticionCliente.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Models\\Interfaces\\IPeticionCliente.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Models\\Interfaces\\IPeticionCliente.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Models\\Interfaces\\IPeticionCliente.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Models\\Interfaces\\IPeticionCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T21:16:58.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ICliente.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Models\\Interfaces\\ICliente.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Models\\Interfaces\\ICliente.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Models\\Interfaces\\ICliente.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Models\\Interfaces\\ICliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T21:40:40.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "INotificacionPeticion.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Models\\Interfaces\\INotificacionPeticion.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Models\\Interfaces\\INotificacionPeticion.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Models\\Interfaces\\INotificacionPeticion.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Models\\Interfaces\\INotificacionPeticion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T21:16:28.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ICategoria.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Models\\Interfaces\\ICategoria.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Models\\Interfaces\\ICategoria.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Models\\Interfaces\\ICategoria.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Models\\Interfaces\\ICategoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T21:14:07.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Models\\Interfaces\\IUsuario.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Models\\Interfaces\\IUsuario.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Models\\Interfaces\\IUsuario.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Models\\Interfaces\\IUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T21:07:38.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "NotificacionPeticion.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Models\\NotificacionPeticion.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Models\\NotificacionPeticion.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Models\\NotificacionPeticion.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Models\\NotificacionPeticion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T20:18:18.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Trabajador.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Models\\Trabajador.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Models\\Trabajador.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Models\\Trabajador.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Models\\Trabajador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T20:15:59.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IProducto.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Models\\Interfaces\\IProducto.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Models\\Interfaces\\IProducto.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Models\\Interfaces\\IProducto.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Models\\Interfaces\\IProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T21:41:19.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Models\\Producto.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T20:13:32.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IArea.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Models\\Interfaces\\IArea.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Models\\Interfaces\\IArea.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Models\\Interfaces\\IArea.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Models\\Interfaces\\IArea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T21:12:13.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Models\\Categoria.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T20:16:39.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Area.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Models\\Area.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Models\\Area.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Models\\Area.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Models\\Area.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T20:16:13.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Models\\Cliente.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T20:15:14.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Models\\Usuario.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T20:15:02.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Program.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Program.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Program.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T19:55:36.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T19:54:41.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Views\\Producto\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Views\\Producto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Views\\Producto\\Index.cshtml",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Views\\Producto\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T19:53:53.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "InicioController.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Controllers\\InicioController.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Controllers\\InicioController.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Controllers\\InicioController.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Controllers\\InicioController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T19:53:11.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "EmpresaMetalurgicayVidrios\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto\\EmpresaMetalurgicayVidrios\\EmpresaMetalurgicayVidrios\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "EmpresaMetalurgicayVidrios\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T19:51:12.393Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
